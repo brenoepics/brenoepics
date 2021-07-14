@@ -1,4 +1,4 @@
-8<h1 align="center">Hi 👋, I'm Breno Andrade</h1>
+<h1 align="center">Hi 👋, I'm Breno Andrade</h1>
 <h3 align="center">A student from brazil</h3>
 
 - 🌱 I’m currently learning **Java and vue js**
