@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Breno Andrade</h1>
 <h3 align="center">A student from brazil</h3>
 
-- 🌱 I’m currently learning **Java and vue js**
-
-- ⚡ Fun fact **I like to help ppl**
+- 🌱 I’m currently learning **vue js and c#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
