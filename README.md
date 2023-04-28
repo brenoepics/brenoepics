@@ -7,4 +7,4 @@ I'm Breno :sunglasses:
 
 # 📊 GitHub Stats:
 ![langs](https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)![langslight](https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)
-<img align="center" src="https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/overview.svg" alt="overview" />
+![overview](https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![overviewlight](https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)
