@@ -103,7 +103,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 47.45096%;" class="progress-item"></span><span style="background-color: #178600;width: 17.49660%;" class="progress-item"></span><span style="background-color: #3178c6;width: 12.92836%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.84346%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 9.25365%;" class="progress-item"></span><span style="background-color: #41b883;width: 2.92949%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.09521%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.00226%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 47.45131%;" class="progress-item"></span><span style="background-color: #178600;width: 17.49648%;" class="progress-item"></span><span style="background-color: #3178c6;width: 12.92828%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.84340%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 9.25359%;" class="progress-item"></span><span style="background-color: #41b883;width: 2.92947%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.09521%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.00226%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -145,7 +145,7 @@ div.ellipsis {
                         C#
                     </span>
                     <span class="percent">
-                        17.497%
+                        17.496%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
