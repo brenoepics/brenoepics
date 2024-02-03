@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 46.11018%;" class="progress-item"></span><span style="background-color: #178600;width: 16.99607%;" class="progress-item"></span><span style="background-color: #3178c6;width: 12.63729%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 11.51985%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.79348%;" class="progress-item"></span><span style="background-color: #41b883;width: 2.84845%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.09248%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.00220%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 46.11297%;" class="progress-item"></span><span style="background-color: #178600;width: 16.99519%;" class="progress-item"></span><span style="background-color: #3178c6;width: 12.63664%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 11.51925%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.79297%;" class="progress-item"></span><span style="background-color: #41b883;width: 2.84830%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.09248%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.00220%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        46.110%
+                        46.113%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -174,7 +174,7 @@ div.ellipsis {
                         C#
                     </span>
                     <span class="percent">
-                        16.996%
+                        16.995%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -212,7 +212,7 @@ div.ellipsis {
                         PHP
                     </span>
                     <span class="percent">
-                        11.520%
+                        11.519%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
