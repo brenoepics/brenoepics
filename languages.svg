@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 45.87873%;" class="progress-item"></span><span style="background-color: #178600;width: 16.91500%;" class="progress-item"></span><span style="background-color: #3178c6;width: 12.97704%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 11.30886%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.75180%;" class="progress-item"></span><span style="background-color: #41b883;width: 3.07434%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.09204%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.00219%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 45.87802%;" class="progress-item"></span><span style="background-color: #178600;width: 16.91473%;" class="progress-item"></span><span style="background-color: #3178c6;width: 12.97684%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 11.30868%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.75164%;" class="progress-item"></span><span style="background-color: #41b883;width: 3.07586%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.09204%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.00219%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        45.879%
+                        45.878%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -250,7 +250,7 @@ div.ellipsis {
                         Vue
                     </span>
                     <span class="percent">
-                        3.074%
+                        3.076%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
