@@ -8,7 +8,7 @@
 
   <samp>
     <a href="https://breno.tech">me</a> ·
-    <a href="https://breno.tech/posts">blog</a> ·
+    <a href="https://breno.tech/blog">blog</a> ·
     <a href="https://github.com/brenoepics?tab=repositories">projects</a> ·
     <a href="https://discordapp.com/users/brenoepic">discord</a> ·
     <a href="mailto:git@breno.tech">email</a>
