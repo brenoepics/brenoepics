@@ -1,11 +1,4 @@
 <div align="center">
-  <p>
-    <strong>Building performance-focused tools, automation, and systems</strong> -
-    <strong>always thinking about the next thing to create.</strong>
-    <br>
-    <em>Open-source isn’t a hobby, it’s the mission.</em>
-  </p>
-
   <samp>
     <a href="https://breno.tech">me</a> ·
     <a href="https://breno.tech/blog">blog</a> ·
@@ -13,6 +6,15 @@
     <a href="https://discordapp.com/users/brenoepic">discord</a> ·
     <a href="mailto:git@breno.tech">email</a>
   </samp>
+  <br>
+  </br>
+
+  
+  <p>
+    <strong>Always thinking about the next thing to create.</strong>
+    <br>
+    <em>Open-source isn’t a hobby, it’s the mission.</em>
+  </p>
 
   <h4 style="margin-top:1.5rem;">📚 Currently reading</h4>
   <table align="center">
